@@ -1,1 +1,1 @@
-console.log("Logged in as Trail Mix")
+console.log("Logged in as Trail Mix");
